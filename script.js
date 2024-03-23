@@ -1,13 +1,3 @@
-/*const firebaseConfig = {
-  apiKey: "AIzaSyBiKMAtstlv7R9DD5bDJ_ju2KXy0Oz91uY",
-  authDomain: "quiz-34ac3.firebaseapp.com",
-  databaseURL: "https://quiz-34ac3-default-rtdb.firebaseio.com",
-  projectId: "quiz-34ac3",
-  storageBucket: "quiz-34ac3.appspot.com",
-  messagingSenderId: "33579432678",
-  appId: "1:33579432678:web:585465a1afc56d5bb35927",
-};*/
-
 const firebaseConfig = {
   apiKey: "AIzaSyDLYpp6bV4HeN21dh0cQyZliXiYPAfQjqw",
   authDomain: "kenshuu-onlinetest.firebaseapp.com",
