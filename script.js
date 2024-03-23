@@ -1,4 +1,4 @@
-const firebaseConfig = {
+/*const firebaseConfig = {
   apiKey: "AIzaSyBiKMAtstlv7R9DD5bDJ_ju2KXy0Oz91uY",
   authDomain: "quiz-34ac3.firebaseapp.com",
   databaseURL: "https://quiz-34ac3-default-rtdb.firebaseio.com",
@@ -6,6 +6,17 @@ const firebaseConfig = {
   storageBucket: "quiz-34ac3.appspot.com",
   messagingSenderId: "33579432678",
   appId: "1:33579432678:web:585465a1afc56d5bb35927",
+};*/
+
+const firebaseConfig = {
+  apiKey: "AIzaSyDLYpp6bV4HeN21dh0cQyZliXiYPAfQjqw",
+  authDomain: "kenshuu-onlinetest.firebaseapp.com",
+  databaseURL: "https://kenshuu-onlinetest-default-rtdb.firebaseio.com",
+  projectId: "kenshuu-onlinetest",
+  storageBucket: "kenshuu-onlinetest.appspot.com",
+  messagingSenderId: "351856145614",
+  appId: "1:351856145614:web:9d8a7f9970135c82a6cc9f",
+  measurementId: "G-1FST25EMND"
 };
 
 firebase.initializeApp(firebaseConfig);
