@@ -1,6 +1,6 @@
 :root {
-  --primary-color: #990073;
-  --secondary-color: #990073;
+  --primary-color: #4caf50 ;
+  --secondary-color: #4caf50 ;
   --black: #000000;
   --white: #ffffff;
   --gray: #efefef;
@@ -183,7 +183,7 @@ body {
 }
 
 .pointer:hover {
-  color: #990073;
+  color: #4caf50 ;
 }
 
 .container.sign-in .form.sign-in,
@@ -381,7 +381,7 @@ body {
 .copyright {
   font-family: HiraMinPro-W3-83pv-RKSJ-H;
   text-align: center;
-  color: #990073;
+  color: #4caf50 ;
   font-size: 1.6rem;
   margin-bottom: 18px;
 }
@@ -401,7 +401,7 @@ body {
   width: 60px;
   aspect-ratio: 2;
   --_g: no-repeat
-    radial-gradient(circle closest-side, #990073 90%, rgba(255, 255, 255, 0));
+    radial-gradient(circle closest-side, #4caf50 90%, rgba(255, 255, 255, 0));
   background: var(--_g) 0% 50%, var(--_g) 50% 50%, var(--_g) 100% 50%;
   background-size: calc(100% / 3) 50%;
   animation: d3 1s infinite linear;
